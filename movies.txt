@@ -1,0 +1,10 @@
+1,The Shawshank Redemption,Drama
+2,Inception,Sci-Fi
+3,The Dark Knight,Action
+4,Interstellar,Sci-Fi
+5,Parasite,Thriller
+6,The shinning,horror
+7,The Godfather,Drama
+8,get out,horror
+9,The Godfather Part II,Drama
+10,The Lord of the Rings: The Return of the King,Fantasy
